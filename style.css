@@ -138,6 +138,10 @@ h1 {
     height: 65px;
     margin-top: 65px;
     background-color: #34547A;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 0.1em;
     color: #FFFFFF;
 }
 
@@ -171,45 +175,16 @@ h1 {
     margin: 3px 0 3px 20px;
 }
 
-.project_group_1 {
+.project {
     width: 141px;
     height: 50px;
     display: flex;
+}
+.group_1 {
     margin-left: 409px;
 }
 
-.project_group_2 {
-    width: 141px;
-    height: 50px;
-    display: flex;
-    margin-left: 45px;
-}
-
-.project_group_3 {
-    width: 141px;
-    height: 50px;
-    display: flex;
-    margin-left: 49px;
-}
-
-.project_group_4 {
-    width: 141px;
-    height: 50px;
-    display: flex;
-    margin-left: 49px;
-}
-
-.project_group_5 {
-    width: 141px;
-    height: 50px;
-    display: flex;
-    margin-left: 49px;
-}
-
-.project_group_6 {
-    width: 141px;
-    height: 50px;
-    display: flex;
+.group_2 {
     margin-left: 49px;
 }
 
